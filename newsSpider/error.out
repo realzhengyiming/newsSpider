@@ -1,0 +1,3745 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1265, "Data truncated for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1265, "Data truncated for column 'Acontent' at row 1")
+  self._do_get_result()
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xE6\\x80\\x9D\\xE8\\x80\\x83...' for column 'Acontent' at row 1")
+  self._do_get_result()
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(datalist)  #这边已经是空的了
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print("这边开始这样")
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print(tempDic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    print("解析的文章的部分-》")  # 这边已经是空的了//todo 把腾讯的这个分析的东西再搞一下，应该还是解析页面里面除到问题就是这个文件里面的。
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+    # print(dic)
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1300, "Invalid utf8 character string: 'F09F91'")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE5\\x8A...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE5\\xAF...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE4\\xBE...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE8\\x81...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE4\\xBC...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE6\\xB7...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE7\\xA0...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE5\\x90...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE7\\xA7...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE6\\x8A...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE5\\x9C...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE6\\x9C...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE9\\xBC...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xF0\\x9F\\x91\\x89\\xE7\\xB1...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xE6\\x9C\\xBA\\xE3\\x80\\x81...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xE9\\x92\\xBB\\xE6\\x9C\\xBA...' for column 'Acontent' at row 1")
+  self._do_get_result()
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 276, in getWxContent
+  File "<string>", line 1, in <module>
+NameError: name 'null' is not defined
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xE6\\xA8\\xA1\\xE5\\xBC\\x8F...' for column 'Acontent' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xE7\\xAB\\x99\\xE5\\xBC\\x8F...' for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1366, "Incorrect string value: '\\xE4\\xB8\\x80\\xE7\\xAB\\x99...' for column 'Acontent' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1265, "Data truncated for column 'oneP' at row 1")
+  self._do_get_result()
+/usr/local/python3/lib/python3.6/site-packages/pymysql/cursors.py:329: Warning: (1265, "Data truncated for column 'Acontent' at row 1")
+  self._do_get_result()
+Process Process-122:
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.6/multiprocessing/process.py", line 249, in _bootstrap
+    self.run()
+  File "/usr/local/python3/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "everydaynews.py", line 25, in worker_2
+    one = everyDayTengxun.getEveryTengxun()  #这样就行了对吧  #这儿就在执行这个函数了
+  File "/root/newsSpider/tengxun/everyDayTengxun.py", line 61, in getEveryTengxun
+    title, Hcontent, Tcontent, Acontent=pcontent.getPageContentMain(url)  #这儿漏了更新到url中去  ,自动转换成xw的然后再下载
+  File "/root/newsSpider/tengxun/pageContent.py", line 471, in getPageContentMain
+  File "/root/newsSpider/tengxun/pageContent.py", line 238, in getWxContent
+    title, Hcontent, Tcontent, Acontent = "", "", "", ""  # 最后一个参数好像没什么用
+AttributeError: 'NoneType' object has no attribute 'title'
+Process Process-128:
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.6/multiprocessing/process.py", line 249, in _bootstrap
+    self.run()
+  File "/usr/local/python3/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "everydaynews.py", line 25, in worker_2
+    one = everyDayTengxun.getEveryTengxun()  #这样就行了对吧  #这儿就在执行这个函数了
+  File "/root/newsSpider/tengxun/everyDayTengxun.py", line 61, in getEveryTengxun
+    title, Hcontent, Tcontent, Acontent=pcontent.getPageContentMain(url)  #这儿漏了更新到url中去  ,自动转换成xw的然后再下载
+  File "/root/newsSpider/tengxun/pageContent.py", line 471, in getPageContentMain
+TypeError: 'NoneType' object is not iterable
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 298, in getWxContent
+    traceback.print_exc()  # 貌似这个，一个错，各个错。
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 298, in getWxContent
+    traceback.print_exc()  # 貌似这个，一个错，各个错。
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 298, in getWxContent
+    traceback.print_exc()  # 貌似这个，一个错，各个错。
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "/root/newsSpider/tengxun/pageContent.py", line 298, in getWxContent
+    traceback.print_exc()  # 貌似这个，一个错，各个错。
+TypeError: string indices must be integers
