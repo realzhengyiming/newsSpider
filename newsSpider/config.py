@@ -18,12 +18,12 @@ serverName  = "测试用爬虫服务器"
 
 #这儿目前只支持QQ邮箱，授权码这个config自己手动的设置就可以了，自动化的配置的文件都在这儿了
 EmailAdress ={
-        'fromAdd' : "1403459511@qq.com",  # 你的邮箱   发件地址
+        'fromAdd' : "xxxx@xx.com",  # 你的邮箱   发件地址
         # to_ = input('Please input Recipient:')  # 收件地址
-        'toAdd' : "1403459511@qq.com",
+        'toAdd' : "xxxx@xxxx.com",
         # subject = input('Please input title:')  # 邮件标题
 
-        'pwd' : "urckpwbbgbeqhdec",  # 授权码  nkijfhnodibbiifb  smtp tmap
+        'pwd' : "xxxxxxxxx",  # 授权码  nkijfhnodibbiifb  smtp tmap
 
         #报告的主题分级
         'serverName':'测试用爬虫服务器',
